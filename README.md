@@ -28,8 +28,8 @@ Setup the assessment and run the app. Open the app in browser. You will see two 
 - Everytime a user drops the small box, the counter should increment, the small box should dissapear and a new one should appear.
 - The data for counter should be stored in SQLite db using [Prisma](https://prisma.io) and [tRPC](https://trpc.io).
 - Fetch data from db to persist the state of counter upon reload.
-- Implmenet the functionality of the reset button, the counter should reset to 0.
-- Style the components using [Tailwind CSS](https://tailwindcss.com), style in any way you like!
+- Implement the functionality of the reset button, the counter should reset to 0.
+- Style the components using [Tailwind CSS](https://tailwindcss.com), style in any creative way you like!
 - Deploy the app on [Vercel](https://create.t3.gg/en/deployment/vercel) (or any other cloud provider), you can change the origin of the repository and push it to your own GitHub repository for deployment.
 
 ## Tech-Stack
