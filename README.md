@@ -12,7 +12,7 @@ Welcome to DeepMeta fullstack assessment!
 
 `npm install`
 
-4. Create prisma db (SQLite)
+4. Create prisma db (SQLite is default, you can use any other database provider you like [Prisma Database Connectors](https://www.prisma.io/docs/concepts/database-connectors))
 
 `npx prism db push`
 
