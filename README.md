@@ -3,12 +3,15 @@
 ## Setting Up
 
 1. Clone the repository
+
 `git clone https://github.com/DeepMetaGit/deepmeta_fullstack_assessment.git`
 
 3. Install dependencies
+
 `npm install`
 
 4. Create prisma db (SQLite)
+
 `npx prism db push`
 
 ## Assessment Stack
