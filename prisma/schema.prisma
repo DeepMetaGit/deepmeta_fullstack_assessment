@@ -10,8 +10,9 @@ datasource db {
     url      = env("DATABASE_URL")
 }
 
-model Example {
+model Count {
     id        String   @id @default(cuid())
+    count     Int      
     createdAt DateTime @default(now())
     updatedAt DateTime @updatedAt
 }
