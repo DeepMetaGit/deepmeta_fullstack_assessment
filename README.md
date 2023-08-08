@@ -6,11 +6,15 @@ Welcome to DeepMeta fullstack assessment!
 
 1. Clone the repository
 
-`git clone https://github.com/DeepMetaGit/deepmeta_fullstack_assessment.git`
+```
+git clone https://github.com/DeepMetaGit/deepmeta_fullstack_assessment.git
+```
 
 3. Install dependencies
 
-`npm install`
+```
+npm install
+```
 
 4. Create a `.env` file in root folder, and add the following env variables:
 
@@ -21,11 +25,15 @@ NODE_ENV="development"
 
 5. Sync your Prisma schema with your database (SQLite is default, you can use any other database provider you like [Prisma Database Connectors](https://www.prisma.io/docs/concepts/database-connectors))
 
-`npx prism db push`
+```
+npx prism db push
+```
 
 6. Run the app
 
-`npm run dev`
+```
+npm run dev
+```
 
 ## Assessment
 
