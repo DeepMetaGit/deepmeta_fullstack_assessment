@@ -1,8 +1,10 @@
 # DeepMeta Fullstack Assessment
 
-## Instal
+## Setting Up
 
-```asd```
+1. Clone the repository
+
+```bash git clone ```
 
 ## Assessment Stack
 
