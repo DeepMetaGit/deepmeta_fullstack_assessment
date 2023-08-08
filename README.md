@@ -12,11 +12,18 @@ Welcome to DeepMeta fullstack assessment!
 
 `npm install`
 
-4. Sync your Prisma schema with your database (SQLite is default, you can use any other database provider you like [Prisma Database Connectors](https://www.prisma.io/docs/concepts/database-connectors))
+4. Create a `.env` file in root folder, and add the following env variables:
+
+```
+DATABASE_URL="file:./db.sqlite"
+NODE_ENV="development"
+```
+
+5. Sync your Prisma schema with your database (SQLite is default, you can use any other database provider you like [Prisma Database Connectors](https://www.prisma.io/docs/concepts/database-connectors))
 
 `npx prism db push`
 
-5. Run the app
+6. Run the app
 
 `npm run dev`
 
