@@ -32,6 +32,8 @@ Setup the assessment and run the app. Open the app in browser. You will see two 
 - Style the components using [Tailwind CSS](https://tailwindcss.com), style in any way you like!
 - Deploy the app on [Vercel](https://create.t3.gg/en/deployment/vercel) (or any other cloud provider), you can change the origin of the repository and push it to your own GitHub repository for deployment.
 
+There is no time limit to completet he assessment, but we expect it to be completed in a resonalbe time.
+
 ## Tech-Stack
 
 This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
