@@ -44,7 +44,6 @@ Develop a simple scheduling application for a team of software developers in 'Te
 - The user should be able to edit and delete any existing item on the list
 - The user should be able to sort the priority of a list item using drag-n-drop
 - The state of the list should persist using a database
-- The application should be accessible online, deploy the application on a cloud platform of your choice
 
 The application should use the following libraries so that it integrates well with the rest of the services in Techly.ai:
 
