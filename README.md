@@ -37,7 +37,7 @@ npm run dev
 
 ## Assessment
 
-In this assessment we are developing a simple scheduling application for a team of software developers to organize activities in order of pripority. The user requirenment of the application is as follows:
+Develop a simple scheduling application for a team of software developers in 'Techly.ai' (a startup) to organize activities in order of priority using the T3 Tech-Stack. The user requirenment of the application is as follows:
 
 - The application should have an interactive sortable list
 - The user should be able to add an item to the list
@@ -46,10 +46,10 @@ In this assessment we are developing a simple scheduling application for a team 
 - The state of the list should persist using a database
 - The application needs to be online, deploy the application on a cloud platform of your choice
 
-The application should use the following libraries so that it integrates well with the rest of the services in the organization:
+The application should use the following libraries so that it integrates well with the rest of the services in Techly.ai:
 
 - [Prisma](https://prisma.io) for managing database
-- [dnd-kit](https://docs.dndkit.com/) for creating sortable list
+- [dnd-kit](https://docs.dndkit.com/) for creating a sortable list
 
 You can find detailed information on which stack to use below.
 
