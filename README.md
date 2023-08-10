@@ -37,15 +37,20 @@ npm run dev
 
 ## Assessment
 
-Setup the assessment and run the app. Open the app in browser. You will see two boxes, one small box and one big box. The aim of the assessment is as follows:
+In this assessment we are developing a simple scheduling application for a team of software developers to organize activities in order of pripority. The user requirenment of the application is as follows:
 
-- Use the [dnd-kit](https://docs.dndkit.com/) library to make the small box a draggable and the big box a droppable element. (the core library is already included with the assessment, you can install any additional libraries related to [dnd-kit](https://docs.dndkit.com/) if needed)
-- Everytime a user drops the small box, the counter should increment, the small box should dissapear and a new one should appear.
-- The data for counter should be stored in SQLite db using [Prisma](https://prisma.io) and [tRPC](https://trpc.io).
-- Fetch data from db to persist the state of counter upon reload.
-- Implement the functionality of the reset button, the counter should reset to 0.
-- Style the components using [Tailwind CSS](https://tailwindcss.com), style in any creative way you like!
-- Deploy the app on [Vercel](https://create.t3.gg/en/deployment/vercel) (or any other cloud provider), you can change the origin of the repository and push it to your own GitHub repository for deployment.
+- The application should have an interactive sortable list
+- The user should be able to add an item to the list
+- The user should be able to edit and delete any existing item on the list
+- The user should be able to sort the priority of a list item using drag-n-drop
+- The state of the list should persist using a database
+
+The application should use the following libraries so that it integrates well with the rest of the services in the organization:
+
+- [Prisma](https://prisma.io) for managing database
+- [dnd-kit](https://docs.dndkit.com/) for creating sortable list
+
+You can find detailed information on which stack to use below.
 
 ## Tech-Stack
 
