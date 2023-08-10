@@ -8,6 +8,7 @@ Welcome to DeepMeta fullstack assessment!
 
 ```
 git clone https://github.com/DeepMetaGit/deepmeta_fullstack_assessment.git
+cd ./deepmeta_fullstack_assessment
 ```
 
 3. Install dependencies
