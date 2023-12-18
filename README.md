@@ -38,7 +38,7 @@ npm run dev
 
 ## Assessment
 
-Develop a simple scheduling application for a team of software developers in 'Techly.ai' (a startup) to organize activities in order of priority using the T3 Tech-Stack. The user requirenment of the application is as follows:
+Develop a simple scheduling application for a team of software developers in 'Techly.ai' (a startup) to organize activities in order of priority using the T3 Tech-Stack. The user requirement of the application is as follows:
 
 - The application should have an interactive sortable list
 - The user should be able to add an item to the list
@@ -53,6 +53,13 @@ The application should use the following libraries so that it integrates well wi
 - [dnd-kit](https://docs.dndkit.com/) for creating a sortable list
 
 You can find detailed information on which stack to use below.
+
+## Submission
+
+After completing the assessment, please provide us with the following:
+
+- URL to access the application online
+- GitHub link with the source code
 
 ## Tech-Stack
 
